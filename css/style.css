@@ -2,3 +2,7 @@
 /* CSS Document */
 .header{width:100%;height:auto;float:left;}
 .navbar{margin-bottom:0px;border-radius:0;border:0px;}
+.pager-section{width:100%;height:auto;float:left;}
+.pager-section h3{margin:20px 0px 0px;}
+.pager li{margin-right:20px;}
+.pager li:last-of-type{margin:0px;}
